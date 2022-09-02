@@ -1,0 +1,83 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    }
+    .arte{
+        display: flex;
+        align-items: center;
+        }
+    .arte{
+        display: flex;
+        align-items: center;
+        }
+    
+    .links{
+        display: flex;
+        align-items: center;
+    }
+    .logo{
+    width: 100px;
+    }
+    .logo img{
+        width: 100%;
+    }
+    h2{
+        color: aliceblue;
+        text-align: center;
+    }
+    article{
+        display: flex;
+        border: 5px solid blue;
+    }
+    article div{
+        border: 5px solid white;
+        width: 50%;
+    }
+    .alebrije img{
+    width: 100%;
+    border: 3px solid black;
+    }
+    .re a{
+        color: rgb(0, 0, 0);
+        border: 2px solid rgb(185, 57, 57);
+        border-radius: 2px;
+        text-decoration: none;
+    }
+    .links a{
+        border: 2px solid rgb(0, 0, 0);
+    text-decoration: none;
+        border-radius: 5px;
+    }
+    .arte a{
+        text-decoration: none;
+        }
+    .parte1 a{
+        color: aliceblue;
+    }
+    .Conoce a{
+        border: 2px solid rgb(255, 255, 255);
+        border-radius: 5px;
+        color: aliceblue;
+        text-decoration: none;
+    }
+    /*  estilo auxiliar */
+    
+    a{
+    color: rgb(0, 0, 0);
+    align-items: center;
+    margin: 5px;
+    }
+    .parte1{
+        background-color: green;
+    text-align: center;
+    }
+    h1{
+        color: aliceblue;
+    }
+    p{
+        color: aliceblue;
+        text-align: center;
+    }
+    article{
+        background-color: red;
+    }
